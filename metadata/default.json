@@ -1,0 +1,39 @@
+{
+    "name": "CDIDToken",
+    "description": "CDID is the only identity on compverse",
+    "image": "",
+    "attributes": [
+        {
+            "trait_type": "Community Source",
+            "value": ""
+        },
+        {
+            "trait_type": "Affiliate Account",
+            "value": ""
+        },
+        {
+            "trait_type": "Past Contribution",
+            "value": ""
+        },
+        {
+            "trait_type": "twitter",
+            "value": ""
+        },
+        {
+            "trait_type": "discord",
+            "value": ""
+        },
+        {
+            "trait_type": "telegram",
+            "value": ""
+        },
+        {
+            "trait_type": "instagram",
+            "value": ""
+        },
+        {
+            "trait_type": "Nickname",
+            "value": ""
+        }
+    ]
+}
