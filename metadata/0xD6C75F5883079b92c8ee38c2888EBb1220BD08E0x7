@@ -1,7 +1,7 @@
 {
     "name": "CDIDToken",
     "description": "CDID is the only identity on compverse",
-    "image": "https://raw.githubusercontent.com/NutiDAODEV1/CompverseMeta/main/image/avatar.jpg",
+    "image": "https://raw.githubusercontent.com/NutiDAODEV1/CompverseMeta/main/image/COMPVERSEDID.png",
     "attributes": [
         {
             "trait_type": "Nickname",
